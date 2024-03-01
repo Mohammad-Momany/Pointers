@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointers With Array", "Poin
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer With Structure", "..\Pointer With Structure\Pointer With Structure.vcxproj", "{61896037-C180-4060-BBD4-5592D92F8F1D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Memory Management - new and delete", "..\Memory Management - new and delete\Memory Management - new and delete.vcxproj", "{D04C4860-2F8A-4F88-8EE3-E5F0F3967A5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{61896037-C180-4060-BBD4-5592D92F8F1D}.Release|x64.Build.0 = Release|x64
 		{61896037-C180-4060-BBD4-5592D92F8F1D}.Release|x86.ActiveCfg = Release|Win32
 		{61896037-C180-4060-BBD4-5592D92F8F1D}.Release|x86.Build.0 = Release|Win32
+		{D04C4860-2F8A-4F88-8EE3-E5F0F3967A5B}.Debug|x64.ActiveCfg = Debug|x64
+		{D04C4860-2F8A-4F88-8EE3-E5F0F3967A5B}.Debug|x64.Build.0 = Debug|x64
+		{D04C4860-2F8A-4F88-8EE3-E5F0F3967A5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{D04C4860-2F8A-4F88-8EE3-E5F0F3967A5B}.Debug|x86.Build.0 = Debug|Win32
+		{D04C4860-2F8A-4F88-8EE3-E5F0F3967A5B}.Release|x64.ActiveCfg = Release|x64
+		{D04C4860-2F8A-4F88-8EE3-E5F0F3967A5B}.Release|x64.Build.0 = Release|x64
+		{D04C4860-2F8A-4F88-8EE3-E5F0F3967A5B}.Release|x86.ActiveCfg = Release|Win32
+		{D04C4860-2F8A-4F88-8EE3-E5F0F3967A5B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
